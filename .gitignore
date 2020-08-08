@@ -1,0 +1,5 @@
+node_modules
+logs
+node_svr
+*.zip
+*.DS_Store

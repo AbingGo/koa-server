@@ -1,0 +1,4 @@
+node_svr/
+node_modules/
+src/logs/
+src/server.js
